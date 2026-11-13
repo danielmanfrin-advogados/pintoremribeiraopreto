@@ -1,4 +1,4 @@
-# Pintor em Ribeirão Preto
+# pintor em ribeirão preto
 
 Portal de contato para pedir orientação sobre pintura de casas, comércios e apartamentos em Ribeirão Preto, SP.
 

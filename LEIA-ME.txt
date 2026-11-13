@@ -1,4 +1,4 @@
-PINTURA EM RIBEIRÃO PRETO
+PINTOR EM RIBEIRÃO PRETO
 
 Domínio base usado no projeto: https://pinturaemribeiraopreto.vercel.app
 
