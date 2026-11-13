@@ -3,22 +3,22 @@
 Portal de contato para pedir orientação sobre pintura de casas, comércios e apartamentos em Ribeirão Preto, SP.
 
 ## Serviços
-- [Pintura residencial](https://pinturaemribeiraopreto.vercel.app/servicos/pintura-residencial/): Pintura de casas, salas, quartos e áreas internas. O prestador avalia a superfície, o tipo de tinta e o acabamento antes de orientar o pedido.
-- [Pintura comercial](https://pinturaemribeiraopreto.vercel.app/servicos/pintura-comercial/): Pintura para lojas, salas, escritórios e outros espaços comerciais. Informe o tipo de ambiente e o que precisa ser preparado para receber orientação.
-- [Pintura de apartamento](https://pinturaemribeiraopreto.vercel.app/servicos/pintura-de-apartamento/): Pintura de apartamentos completos ou de ambientes específicos, com atenção à proteção do piso, circulação e preparação das paredes.
+- [Pintura residencial](https://pintoremribeiraopreto.vercel.app/servicos/pintura-residencial/): Pintura de casas, salas, quartos e áreas internas. O prestador avalia a superfície, o tipo de tinta e o acabamento antes de orientar o pedido.
+- [Pintura comercial](https://pintoremribeiraopreto.vercel.app/servicos/pintura-comercial/): Pintura para lojas, salas, escritórios e outros espaços comerciais. Informe o tipo de ambiente e o que precisa ser preparado para receber orientação.
+- [Pintura de apartamento](https://pintoremribeiraopreto.vercel.app/servicos/pintura-de-apartamento/): Pintura de apartamentos completos ou de ambientes específicos, com atenção à proteção do piso, circulação e preparação das paredes.
 
 ## Bairros
-- [Centro](https://pinturaemribeiraopreto.vercel.app/bairros/centro/): informações para pedir pintura no bairro.
-- [Jardim Botânico](https://pinturaemribeiraopreto.vercel.app/bairros/jardim-botanico/): informações para pedir pintura no bairro.
-- [Nova Aliança](https://pinturaemribeiraopreto.vercel.app/bairros/nova-alianca/): informações para pedir pintura no bairro.
-- [Vila Tibério](https://pinturaemribeiraopreto.vercel.app/bairros/vila-tiberio/): informações para pedir pintura no bairro.
-- [Bonfim Paulista](https://pinturaemribeiraopreto.vercel.app/bairros/bonfim-paulista/): informações para pedir pintura no bairro.
-- [Campos Elíseos](https://pinturaemribeiraopreto.vercel.app/bairros/campos-eliseos/): informações para pedir pintura no bairro.
+- [Centro](https://pintoremribeiraopreto.vercel.app/bairros/centro/): informações para pedir pintura no bairro.
+- [Jardim Botânico](https://pintoremribeiraopreto.vercel.app/bairros/jardim-botanico/): informações para pedir pintura no bairro.
+- [Nova Aliança](https://pintoremribeiraopreto.vercel.app/bairros/nova-alianca/): informações para pedir pintura no bairro.
+- [Vila Tibério](https://pintoremribeiraopreto.vercel.app/bairros/vila-tiberio/): informações para pedir pintura no bairro.
+- [Bonfim Paulista](https://pintoremribeiraopreto.vercel.app/bairros/bonfim-paulista/): informações para pedir pintura no bairro.
+- [Campos Elíseos](https://pintoremribeiraopreto.vercel.app/bairros/campos-eliseos/): informações para pedir pintura no bairro.
 
 ## Institucional
-- [Sobre](https://pinturaemribeiraopreto.vercel.app/sobre/)
-- [Perguntas frequentes](https://pinturaemribeiraopreto.vercel.app/perguntas-frequentes/)
-- [Política de privacidade](https://pinturaemribeiraopreto.vercel.app/politica-de-privacidade/)
+- [Sobre](https://pintoremribeiraopreto.vercel.app/sobre/)
+- [Perguntas frequentes](https://pintoremribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de privacidade](https://pintoremribeiraopreto.vercel.app/politica-de-privacidade/)
 
 ## Perguntas e respostas
 **P: Como escolher a tinta para cada ambiente?**

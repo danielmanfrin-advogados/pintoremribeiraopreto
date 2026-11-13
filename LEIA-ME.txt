@@ -1,6 +1,6 @@
 PINTOR EM RIBEIRÃO PRETO
 
-Domínio base usado no projeto: https://pinturaemribeiraopreto.vercel.app
+Domínio base usado no projeto: https://pintoremribeiraopreto.vercel.app
 
 COMO TROCAR O WHATSAPP E O TELEFONE
 Abra config.js. Troque whatsapp e telefone pelos números do prestador, sempre com 55, DDD e número, somente dígitos. Os botões de todas as páginas usam esses dois campos. Troque também a mensagem padrão se quiser ajustar o primeiro texto.
@@ -14,7 +14,7 @@ Abra a planilha de registro. Vá em Extensões > Apps Script, apague o código e
 Para ver um relatório por site, use Inserir > Tabela dinâmica. Coloque Site em Linhas e conte Ação ou Botão em Valores.
 
 SEARCH CONSOLE
-Depois de publicar, cadastre o domínio ou a URL no Google Search Console e envie https://pinturaemribeiraopreto.vercel.app/sitemap.xml. Quando houver domínio próprio, atualize DOMAIN, canonical, sitemap, robots e llms.txt.
+Depois de publicar, cadastre o domínio ou a URL no Google Search Console e envie https://pintoremribeiraopreto.vercel.app/sitemap.xml. Quando houver domínio próprio, atualize DOMAIN, canonical, sitemap, robots e llms.txt.
 
 GOOGLE MEU NEGÓCIO
 Recomenda-se criar um perfil no Google Meu Negócio somente quando houver um prestador com endereço real e autorização para divulgar esse local. Este portal não inventa endereço nem usa schema LocalBusiness com endereço falso.
