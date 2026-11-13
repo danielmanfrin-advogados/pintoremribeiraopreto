@@ -1,0 +1,43 @@
+# Pintura em Ribeirão Preto
+
+Portal de contato para pedir orientação sobre pintura de casas, comércios e apartamentos em Ribeirão Preto, SP.
+
+## Serviços
+- [Pintura residencial](https://pinturaemribeiraopreto.vercel.app/servicos/pintura-residencial/): Pintura de casas, salas, quartos e áreas internas. O prestador avalia a superfície, o tipo de tinta e o acabamento antes de orientar o pedido.
+- [Pintura comercial](https://pinturaemribeiraopreto.vercel.app/servicos/pintura-comercial/): Pintura para lojas, salas, escritórios e outros espaços comerciais. Informe o tipo de ambiente e o que precisa ser preparado para receber orientação.
+- [Pintura de apartamento](https://pinturaemribeiraopreto.vercel.app/servicos/pintura-de-apartamento/): Pintura de apartamentos completos ou de ambientes específicos, com atenção à proteção do piso, circulação e preparação das paredes.
+
+## Bairros
+- [Centro](https://pinturaemribeiraopreto.vercel.app/bairros/centro/): informações para pedir pintura no bairro.
+- [Jardim Botânico](https://pinturaemribeiraopreto.vercel.app/bairros/jardim-botanico/): informações para pedir pintura no bairro.
+- [Nova Aliança](https://pinturaemribeiraopreto.vercel.app/bairros/nova-alianca/): informações para pedir pintura no bairro.
+- [Vila Tibério](https://pinturaemribeiraopreto.vercel.app/bairros/vila-tiberio/): informações para pedir pintura no bairro.
+- [Bonfim Paulista](https://pinturaemribeiraopreto.vercel.app/bairros/bonfim-paulista/): informações para pedir pintura no bairro.
+- [Campos Elíseos](https://pinturaemribeiraopreto.vercel.app/bairros/campos-eliseos/): informações para pedir pintura no bairro.
+
+## Institucional
+- [Sobre](https://pinturaemribeiraopreto.vercel.app/sobre/)
+- [Perguntas frequentes](https://pinturaemribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de privacidade](https://pinturaemribeiraopreto.vercel.app/politica-de-privacidade/)
+
+## Perguntas e respostas
+**P: Como escolher a tinta para cada ambiente?**
+
+R: A escolha depende da superfície, do uso do ambiente, da umidade e do acabamento desejado. O prestador deve orientar a opção adequada depois de entender o local.
+
+**P: É preciso preparar a parede antes de pintar?**
+
+R: Em muitos casos, sim. Limpeza, correção de furos, lixamento ou tratamento de descascamento podem ser necessários. Confirme as etapas com o prestador.
+
+**P: Pintura interna e externa usam a mesma tinta?**
+
+R: Nem sempre. As superfícies externas ficam expostas ao clima e podem exigir produtos específicos. O prestador deve avaliar a área antes da escolha.
+
+**P: O que devo informar para pedir pintura?**
+
+R: Informe o bairro, o tipo de imóvel, os ambientes, as medidas aproximadas, o estado das paredes e o acabamento ou a cor desejada.
+
+**P: Como peço o orçamento?**
+
+R: Clique em WhatsApp ou Ligue agora e informe o bairro, o tipo de imóvel, o que será pintado e as condições da superfície. O prestador passa os valores no atendimento.
+

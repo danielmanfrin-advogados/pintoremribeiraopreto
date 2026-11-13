@@ -1,0 +1,26 @@
+PINTURA EM RIBEIRÃO PRETO
+
+Domínio base usado no projeto: https://pinturaemribeiraopreto.vercel.app
+
+COMO TROCAR O WHATSAPP E O TELEFONE
+Abra config.js. Troque whatsapp e telefone pelos números do prestador, sempre com 55, DDD e número, somente dígitos. Os botões de todas as páginas usam esses dois campos. Troque também a mensagem padrão se quiser ajustar o primeiro texto.
+
+COMO PUBLICAR NA VERCEL
+Envie a pasta para um repositório com o nome pinturaribeiraopreto. Na Vercel, importe o repositório, escolha Framework Preset Other, mantenha Build Command como npm run build e Output Directory como dist. O projeto não usa dependências.
+
+COMO ATUALIZAR A PLANILHA
+Abra a planilha de registro. Vá em Extensões > Apps Script, apague o código e cole apps-script/Code.gs. Execute setup() uma vez para criar o cabeçalho e a aba Resumo. Depois vá em Implantar > Gerenciar implantações, edite a implantação existente, escolha Nova versão e publique com acesso Qualquer pessoa. A URL /exec continua a mesma.
+
+Para ver um relatório por site, use Inserir > Tabela dinâmica. Coloque Site em Linhas e conte Ação ou Botão em Valores.
+
+SEARCH CONSOLE
+Depois de publicar, cadastre o domínio ou a URL no Google Search Console e envie https://pinturaemribeiraopreto.vercel.app/sitemap.xml. Quando houver domínio próprio, atualize DOMAIN, canonical, sitemap, robots e llms.txt.
+
+GOOGLE MEU NEGÓCIO
+Recomenda-se criar um perfil no Google Meu Negócio somente quando houver um prestador com endereço real e autorização para divulgar esse local. Este portal não inventa endereço nem usa schema LocalBusiness com endereço falso.
+
+IMAGENS
+O projeto inclui cinco JPGs locais leves em img/, usados na publicação estática. Eles são placeholders neutros, sem texto, marcas ou pessoas. O arquivo img/PROMPTS.txt traz prompts para gerar fotos realistas de substituição. Quando o prestador enviar fotos reais, substitua hero.jpg, sobre.jpg e os três arquivos de serviço mantendo os nomes e preserve os textos alternativos neutros. Não escreva no site que as fotos mostram a equipe, veículo ou empresa do prestador.
+
+PRIVACIDADE
+O tracker registra somente cliques de contato, informações técnicas básicas e a mensagem enviada. Não são coletados nome, e-mail, CPF ou cookies de publicidade.

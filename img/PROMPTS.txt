@@ -1,0 +1,15 @@
+IMAGENS LOCAIS DE FALLBACK
+
+O ambiente de geração entregou imagens em armazenamento gerenciado, mas não em arquivos locais reutilizáveis para a publicação estática. Por isso, o projeto inclui placeholders JPG locais leves, sem texto, marcas ou pessoas, e usa estes prompts para uma substituição futura.
+
+hero.jpg, 1600x900: realistic casual smartphone photograph for a local house painting service website in Brazil, bright lived-in residential interior with a painter's roller, open paint can, drop cloth and freshly painted warm off-white wall, natural window light, horizontal composition, no text, no logos, no brands, no readable signs, no faces in focus.
+
+sobre.jpg, 1000x750: realistic casual smartphone photograph for a local painting service website in Brazil, simple workbench with paint brushes, rollers, masking tape, paint tray and color swatches, natural daylight, everyday home renovation setting, no text, no logos, no brands, no readable labels, no faces in focus.
+
+pintura-residencial.jpg, 1000x750: realistic casual smartphone photograph for residential painting in Brazil, roller applying light terracotta paint to an interior wall in a modest apartment, drop cloth, natural light, no faces, no text, no logos, no brands.
+
+pintura-comercial.jpg, 1000x750: realistic casual smartphone photograph for commercial painting in Brazil, freshly painted neutral wall inside a small empty storefront or office, ladder and paint tray, natural light, no people in focus, no text, no logos, no brands.
+
+pintura-de-apartamento.jpg, 1000x750: realistic casual smartphone photograph for apartment painting in Brazil, clean bedroom corner with newly painted soft beige wall, protected floor, roller and paint can, natural daylight, no people in focus, no text, no logos, no brands.
+
+Quando houver fotos reais do prestador, substitua os cinco JPGs mantendo os nomes e preserve os textos alternativos neutros do HTML.
